@@ -17,8 +17,8 @@ es_caliente = temperatura_celsius >= 25
 print("¿Es caliente?:", es_caliente)
 
 # Muestra los resultados con el tipo de dato string
-print("Temperatura ingresada en celcius:", temperatura_celsius, "°C")
-print("Temperatura convertida a Fahrenheit:", temperatura_fahrenheit, "°F")
+print("Temperatura ingresada en grados Celcius:", temperatura_celsius, "°C")
+print("Temperatura convertida a grados Fahrenheit:", temperatura_fahrenheit, "°F")
 
 if es_caliente:
     print("El clima es caliente.")
